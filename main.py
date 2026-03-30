@@ -1,15 +1,15 @@
 import random
 words = [
-    "book",     # commonly used object
-    "car",      # everyday means of transport
-    "dog",      # familiar animal
-    "house",    # place where people live
-    "school",   # place of learning
-    "apple",    # simple fruit
-    "pen",      # common writing tool
-    "chair",    # everyday furniture
-    "water",    # essential for life (uncountable)
-    "table"     # household item
+    "book",    
+    "car",     
+    "dog",    
+    "house",   
+    "school", 
+    "apple",  
+    "pen",     
+    "chair",   
+    "water",  
+    "table"   
 ]
 choosen_word=random.choice(words)
 length=len(choosen_word)
